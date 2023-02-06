@@ -1,13 +1,10 @@
 # load 7NN0 - reference structure
-cmd.load("/home/joanna/Pulpit/Bioinf 2.1/IPZ_ZESPOL_1/str3/7NN0/7NN0_A_ready.pdbqt")
+cmd.load("7NN0_A_ready.pdbqt")
 set surface_color, gray
 show surface
 
 # load ligand
-cmd.load("/home/joanna/Pulpit/Bioinf 2.1/IPZ/matiWork/EOS100357_processed_out.pdbqt")
-
-# oryginalny
-# cmd.load("/home/joanna/Pulpit/139_hits/processed/EOS100357_processed.pdbqt")
+cmd.load("EOS100357_processed_out.pdbqt")
 
 # select ligand
 select my_ligand, EOS100357_processed_out
