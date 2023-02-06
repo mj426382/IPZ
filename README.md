@@ -1,5 +1,8 @@
-# Comparison of pharmacophore-based and ML approach to finding inhibitors of COVID-19 NSP13 helicase
-### Team 1: Maria Bochenek, Tomasz Cheda, Mateusz Janduła, Agnieszka Kowalewska, Joanna Krawczyk
+# Team W1
+**Collaborators**: Maria Bochenek, Tomasz Cheda, Mateusz Janduła, Agnieszka Kowalewska, Joanna Krawczyk
+
+### Project Title: Comparison of pharmacophore-based and ML approach to finding inhibitors of COVID-19 NSP13 helicase
+
 
 ## Introduction
 We tried two different approaches to identify potential inhibitors of Sars-Cov-2 Nsp13 helicase: pharmacophore-based and ML-based. 
