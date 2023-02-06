@@ -1,0 +1,16 @@
+Structure_id,Ligand_name,Smiles
+5rl7_A,VVD,CC(=O)Nc1ccc(c(c1)C(=O)O)F
+5rl9_B,UR7,Cc1ccc(cc1F)CS(=O)(=O)N
+5rlj_B,VW4,C[C@H](CS(=O)(=O)N)c1ccccc1
+5rln_A,NZG,CC(=O)Nc1cc(ccc1F)C(=O)O
+5rlo_B,UQS,c1ccc(c(c1)CNc2c[nH]nc2)F
+5rlw_B,S9S,CS(=O)(=O)NCCc1ccc(cc1)F
+5rli_B,JFM,CS(=O)(=O)NCCc1ccccc1
+5rlr_B,VWD,CS(=O)(=O)C[C@@H](c1ccccc1)O
+5rls_A,VWG,c1ccc2c(c1)ccc(n2)C(=O)NO
+5rm7_B,N0E,c1ccc(cc1)CCC(=O)Nc2ccc(cc2)O
+5rly_A,K34,c1csc(n1)c2[nH]ncn2
+5rm2_B,UXG,c1ccc(cc1)C(c2ccccc2)N3CC(C3)O
+5rlv_A,VWJ,CC(C)Nc1[nH]c2ccccc2n1
+7nng_A,UJK,Cc1ccccc1n2cc(nn2)C(=O)O
+7nn0_A,ANP,c1nc(c2c(n1)n(cn2)[C@H]3[C@@H]([C@@H]([C@H](O3)CO[P@](=O)(O)O[P@@](=O)(NP(=O)(O)O)O)O)O)N
