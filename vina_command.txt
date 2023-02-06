@@ -1,0 +1,12 @@
+For docking we used Vina with command:
+.\vina.exe --receptor 7NN0_A_ready.pdbqt --center_x -111.226 --center_y -2.456 --center_z 42.233 --size_x 22 --size_y 21 --size_z 24 --ligand .\str4\EOS100357_processed.pdbqt
+
+where:
+--receptor is file path with receptor that is ready for docking in pdbqt format
+--ligand is file path with ligand that is ready for docking in pdbqt format
+--center_x is x box coordinate
+--center_y is y box coordinate
+--center_z is z box coordinate
+--size_x is x box dimension length
+--size_y is y box dimension length
+--size_z is z box dimension length
