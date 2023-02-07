@@ -11,10 +11,3 @@ and PyMol (visualizations). Then, we performed receptor-based pharmacophore cons
 Schroedinger Maestro Phase software. In the second approach, we used DiffDock for generating ligand poses and scored them with GNINA.
 
 ![obraz](https://user-images.githubusercontent.com/85349576/217032105-6302dd56-405b-4dd4-ab86-db98f8ff7c59.png)
-
-## Basic pipeline
-
-
-## DiffDock 
-
-## References
