@@ -1,0 +1,28 @@
+CRYST1   59.250   70.242   85.595 102.48  96.28 112.50 P 1           2
+HETATM    1  C1  VWD B 701     -22.278  41.680 -17.742  0.66 60.62      H    C  
+HETATM    2  O1  VWD B 701     -21.110  39.592 -18.696  0.66 63.50      H    O  
+HETATM    3  S1  VWD B 701     -21.206  40.999 -18.943  0.66 63.60      H    S  
+HETATM    4  C2  VWD B 701     -19.599  41.721 -18.636  0.66 61.00      H    C  
+HETATM    5  O2  VWD B 701     -21.664  41.441 -20.224  0.66 59.25      H    O  
+HETATM    6  C3  VWD B 701     -18.470  41.092 -19.461  0.66 60.18      H    C  
+HETATM    7  O3  VWD B 701     -18.170  39.818 -18.910  0.66 69.58      H    O  
+HETATM    8  C4  VWD B 701     -17.209  41.932 -19.505  0.66 53.59      H    C  
+HETATM    9  C5  VWD B 701     -16.283  41.856 -18.471  0.66 51.28      H    C  
+HETATM   10  C6  VWD B 701     -15.122  42.613 -18.516  0.66 50.58      H    C  
+HETATM   11  C7  VWD B 701     -14.875  43.437 -19.594  0.66 50.47      H    C  
+HETATM   12  C8  VWD B 701     -15.774  43.503 -20.632  0.66 49.25      H    C  
+HETATM   13  C9  VWD B 701     -16.936  42.747 -20.597  0.66 50.85      H    C  
+CONECT    1    3
+CONECT    2    3
+CONECT    3    1    2    4    5
+CONECT    4    3    6
+CONECT    5    3
+CONECT    6    4    7    8
+CONECT    7    6
+CONECT    8    6    9   13
+CONECT    9    8   10
+CONECT   10    9   11
+CONECT   11   10   12
+CONECT   12   11   13
+CONECT   13    8   12
+END
