@@ -1,0 +1,3 @@
+download assemblies of 7zsl and 7nn0 defined by pdb
+for 7nio, the downloaded pdb file was manually edited to remove all references pertinent to the other chain (automation by biopython was attempted, but the code only transferred the ATOM rows of the .pdb file)
+8 resulting files were produced (unaligned/*) 

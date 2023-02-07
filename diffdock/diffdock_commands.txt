@@ -1,0 +1,7 @@
+conda activate diffdock
+
+python datasets/esm_embedding_preparation.py --protein_ligand_csv data/covid_protein.csv --out_file data/covid_protein.fasta 
+
+HOME=esm/model_weights python esm/scripts/extract.py esm2_t33_650M_UR50D data/covid_protein.fasta data/esm2_output --repr_layers 33 --include per_tok
+
+python -m inference --protein_ligand_csv data/covid_protein.csv --out_dir results/second_attempt --inference_steps 20 --samples_per_complex 40 --batch_size 2 --actual_steps 18 --no_final_step_noise

@@ -1,0 +1,3 @@
+Files were copied from nohet_to_aligned_cif/files_renamed and transformed to .pdb with:
+obabel *.cif -opdb -m
+rm *.cif

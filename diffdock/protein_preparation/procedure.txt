@@ -1,0 +1,6 @@
+1. unaligned
+2. del_hetatm
+3. nohet_to_aligned_cif
+4. cif_to_pdb
+5. reduce
+6. final

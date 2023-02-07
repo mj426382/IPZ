@@ -1,0 +1,4 @@
+The individual structures were pairwise aligned as rigid bodies with reference to 6zsl_as1.
+Because rcsb returned the aligned structures renamed with uuids instead of the original names of uploaded files, network traffic was inspected. The mapping was found in the request saved as response.json, and files were renamed according to the mapping (files_renamed). The tranformation matrices were saved for reference.
+
+The files were renamed manually. First rows of the files were edited to reflect the found names.
