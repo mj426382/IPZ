@@ -1,4 +1,4 @@
-# Team W1
+# Team W2
 **Collaborators**: Maria Bochenek, Tomasz Cheda, Mateusz Janduła, Agnieszka Kowalewska, Joanna Krawczyk
 
 ### Project Title: Comparison of pharmacophore-based and ML approach to finding inhibitors of COVID-19 NSP13 helicase
